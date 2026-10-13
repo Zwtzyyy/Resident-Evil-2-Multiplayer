@@ -1,0 +1,25 @@
+# build outputs
+/build/
+/dist/
+
+# never publish - the original reference mod (not ours to redistribute)
+/reference/
+
+# local-only launcher (kept out of the repo for now)
+/launcher/
+
+# scratch / third-party copies
+/Archive/
+/REFramework-master/
+/REFramework-master.zip/
+/reverse engineer this/
+
+# binaries / archives
+*.exe
+*.zip
+*.7z
+*.rar
+
+# windows junk
+Thumbs.db
+desktop.ini

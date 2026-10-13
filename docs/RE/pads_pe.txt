@@ -1,0 +1,162 @@
+﻿================================================================================
+FILE: C:\Users\Zwtzyy\Downloads\RE2R multiplayer mod making\re2r_mp\reference\re2coop_pads.dll  (42496 bytes)  machine=0x8664 dll=True
+export_dll_name: re2coop_pads.dll
+-- sections --
+  .text      va=0x1000     vsize=29704    raw=0x400      rawsize=30208
+  .data      va=0x9000     vsize=176      raw=0x7a00     rawsize=512
+  .rdata     va=0xa000     vsize=3024     raw=0x7c00     rawsize=3072
+  .pdata     va=0xb000     vsize=1104     raw=0x8800     rawsize=1536
+  .xdata     va=0xc000     vsize=1296     raw=0x8e00     rawsize=1536
+  .bss       va=0xd000     vsize=17840    raw=0x0        rawsize=0
+  .edata     va=0x12000    vsize=97       raw=0x9400     rawsize=512
+  .idata     va=0x13000    vsize=2060     raw=0x9600     rawsize=2560
+  .CRT       va=0x14000    vsize=88       raw=0xa000     rawsize=512
+  .tls       va=0x15000    vsize=16       raw=0xa200     rawsize=512
+  .reloc     va=0x16000    vsize=100      raw=0xa400     rawsize=512
+-- data directories (nonzero) --
+  dir[0] rva=0x12000 size=0x61
+  dir[1] rva=0x13000 size=0x80c
+  dir[3] rva=0xb000 size=0x450
+  dir[5] rva=0x16000 size=0x64
+  dir[9] rva=0xa200 size=0x28
+  dir[12] rva=0x13230 size=0x1c8
+-- exports --
+  reframework_plugin_initialize (ord 1) rva=0x1e70 off=4720
+-- imports --
+  ADVAPI32.dll: RegGetValueW
+  KERNEL32.dll: CloseHandle, CreateThread, DeleteCriticalSection, DeleteFileW, DisableThreadLibraryCalls, EnterCriticalSection, GetLastError, GetModuleFileNameW, GetTickCount, InitializeCriticalSection, IsDBCSLeadByteEx, LeaveCriticalSection, MoveFileExW, MultiByteToWideChar, Sleep, TlsGetValue, VirtualProtect, VirtualQuery, WideCharToMultiByte
+  msvcrt.dll: ___lc_codepage_func, ___mb_cur_max_func, __iob_func, _amsg_exit, _errno, _initterm, _lock, _snprintf, _snwprintf, _strnicmp, _unlock, _wfopen, abort, calloc, fclose, fputc, free, fwrite, localeconv, malloc, memcpy, memset, realloc, strerror, strlen, strncmp, vfprintf, wcslen, wcsrchr
+  WINMM.dll: joyConfigChanged, joyGetDevCapsW, joyGetNumDevs, joyGetPosEx
+-- strings (125) --
+    Unknown pseudo relocation bit size %d.
+    Unknown pseudo relocation protocol version %d.
+    VirtualProtect failed with code 0x%x
+    VirtualQuery failed for %d bytes at address %p
+   [^_A\A]A^]
+   [^_A\]
+   ugHc
+  %d bit pseudo relocation at %p out of range, targeting %p, yielding the value %p.
+  ([^_A\A]A^A_]
+  ([^_A\A]]
+  ([^_A\A]]H
+  ([^_]
+  ([^_]H
+  (null)
+  (thf=L
+  ,$HcA
+  ,$HcY
+  8[^_A\A]A^A_]
+  8[^_]
+  :MZu[HcB<H
+  <2ZGU
+  =UUUUw
+  ?aCoc
+  @[^_A\]
+  ADVAPI32.dll
+  AUATUWVSH
+  AWAVAUATUWVSH
+  Address %p has no image-section
+  C$9C(~
+  CloseHandle
+  Controller %u
+  CreateThread
+  DeleteCriticalSection
+  DeleteFileW
+  DisableThreadLibraryCalls
+  EnterCriticalSection
+  GCC: (GNU) 13-win32
+  GetLastError
+  GetModuleFileNameW
+  GetTickCount
+  H[^_A\A]A^A_]
+  H[^_A\A]]
+  HcA<H
+  HcH<H
+  HcP<H
+  HcQ<H
+  IcK<L
+  IcP<L
+  Infinity
+  InitializeCriticalSection
+  IsDBCSLeadByteEx
+  KERNEL32.dll
+  LcB<I
+  LeaveCriticalSection
+  Mingw-w64 runtime failure:
+  MoveFileExW
+  MultiByteToWideChar
+  P[^_A\A]A^]
+  R2PDL
+  RegGetValueW
+  S$9S(~
+  Sleep
+  TlsGetValue
+  UATWVSH
+  UAUATWVSH
+  UAVAUATWVSH
+  UAWAVAUATWVSH
+  UWVSH
+  VirtualProtect
+  VirtualQuery
+  WINMM.dll
+  WideCharToMultiByte
+  X[^_A\A]A^A_]
+  X[^_]
+  [^_A\A]A^A_]
+  [^_A\A]]
+  [^_A\]
+  [^_]A\A]
+  [^_]A\A]A^A_
+  ___lc_codepage_func
+  ___mb_cur_max_func
+  __iob_func
+  _amsg_exit
+  _errno
+  _initterm
+  _lock
+  _snprintf
+  _snwprintf
+  _strnicmp
+  _unlock
+  _wfopen
+  abort
+  addr %llu
+  alive %u
+  calloc
+  fclose
+  fputc
+  fwrite
+  gfffH
+  joyConfigChanged
+  joyGetDevCapsW
+  joyGetNumDevs
+  joyGetPosEx
+  l$ HcB
+  l$ M)
+  l$0E1
+  l$0Lcq
+  l$PHc5p
+  localeconv
+  malloc
+  memcpy
+  memset
+  msvcrt.dll
+  pad %u %04X %04X %d %u %u %s
+  re2coop_pads.dll
+  realloc
+  reframework_plugin_initialize
+  strerror
+  strlen
+  strncmp
+  vfprintf
+  wcslen
+  wcsrchr
+  xinput
+  |$pD9
+-- wide strings (5) --
+  %lsreframework\data\re2coop_pads.tmp
+  %lsreframework\data\re2coop_pads.txt
+  (null)
+  OEMName
+  System\CurrentControlSet\Control\MediaProperties\PrivateProperties\Joystick\OEM\VID_%04X&PID_%04X
+================================================================================
