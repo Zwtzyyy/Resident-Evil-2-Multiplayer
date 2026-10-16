@@ -24,7 +24,7 @@ HUNK v1.4.3 NonRT Alpha"*.
 
 ## Play (quick)
 
-1. Use the **Non-RT / DX11** build of RE2 - Steam -> RE2 -> Properties -> Betas ->
+1. Use the **Non-RT / DX11** build of RE2 - Steam -> RE2 -> Properties -> Game Versions & Betas ->
    `dx11_non-rt`. `re2_config.ini` should read `TargetPlatform=DirectX11`.
 2. Install the mod: copy the plugins to `<game>/reframework/plugins/` and
    `scripts/re2r_mp_main.lua` to `<game>/reframework/autorun/`.
